@@ -4,3 +4,4 @@ Servers/**
 ZV2Project/.settings/**
 ZV2Project/build/.settings/**
 ZV2Project/build/classes/**
+ZV2Project/src/main/webapp/WEB-INF/lib/*
